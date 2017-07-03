@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"World Map","order":1,"parentId":0,"scrollX":1404,"scrollY":776.5714285714286}
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":1404,"scrollY":776},
+{"id":2,"expanded":false,"name":"Beach Town","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"Old Tower","order":3,"parentId":1,"scrollX":832,"scrollY":640}
 ]
